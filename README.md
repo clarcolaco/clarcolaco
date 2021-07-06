@@ -3,7 +3,7 @@
 
 I'm Clarissa (Clar), Software development student.
 
-Actually learning: C, Javascript, Python, Java and Kotlin.
+Actually learning: C, Javascript, Python, Java, Kotlin and Dart/Flutter.
 
 Feel free to add me and share stuff! :coffee:
 
