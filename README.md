@@ -12,9 +12,9 @@ I'm Clarissa (Clar), Software development student.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarcolaco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarcolaco&layout=compact&langs_count=7&theme=dracula"/> </a>
 </div>
-<div style="display: center"><br>
+<div style="display: inline-grid"><br>
   
-    <b>Languages (using/learning): </b><br>
+   Languages (using/learning): 
    <a href="https://github.com/clarcolaco">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
