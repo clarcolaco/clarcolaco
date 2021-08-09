@@ -6,6 +6,7 @@ I'm Clarissa (Clar), Software development student.
 - Actually learning: C, Javascript, Python, Java, Kotlin and Dart/Flutter.
 
 Feel free to add me and share stuff! :coffee:
+Contact:  <a href = "mailto:clarissa.colaco@hotmail.com"><img src="https://img-premium.flaticon.com/png/512/1804/premium/1804883.png?token=exp=1628475633~hmac=1bbc55cbc58d4c162bb0266984cb97e1" height="30" width="30" target="_blank"> Email</a>
 
 <div>
   <a href="https://github.com/clarcolaco">
@@ -29,7 +30,7 @@ Feel free to add me and share stuff! :coffee:
 
 
 <div> 
-   <a href = "mailto:clarissa.colaco@hotmail.com"><img src="https://img-premium.flaticon.com/png/512/1804/premium/1804883.png?token=exp=1628475633~hmac=1bbc55cbc58d4c162bb0266984cb97e1" height="20" width="20" target="_blank"></a>
+  
   <a href="https://www.linkedin.com/in/clarissa-colaco-ramos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
