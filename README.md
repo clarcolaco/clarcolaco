@@ -12,8 +12,8 @@ I'm Clarissa (Clar), Software development student.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarcolaco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarcolaco&layout=compact&langs_count=7&theme=dracula"/> </a>
 </div>
-<div style="display: inline_block"><br>
-    <center>
+<div style="display: center"><br>
+  
     <b>Languages (using/learning): </b><br>
    <a href="https://github.com/clarcolaco">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
@@ -24,7 +24,7 @@ I'm Clarissa (Clar), Software development student.
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-        </a> </center>
+        </a> 
 <br><br>
 </div>
 
