@@ -3,7 +3,7 @@
 
 I'm Clarissa (Clar), Software development student.
 
-- Actually learning: C, Javascript, Python, Java, Kotlin and Dart/Flutter.
+
 
 
 
@@ -13,6 +13,7 @@ I'm Clarissa (Clar), Software development student.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarcolaco&layout=compact&langs_count=7&theme=dracula"/> </a>
 </div>
 <div style="display: inline_block"><br>
+    Languages (using/learning):<br>
    <a href="https://github.com/clarcolaco">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
