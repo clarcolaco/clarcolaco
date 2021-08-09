@@ -13,7 +13,7 @@ Feel free to add me and share stuff! :coffee:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarcolaco&layout=compact&langs_count=7&theme=dracula"/> </a>
 </div>
 <div style="display: inline_block"><br>
-  
+   <a href="https://github.com/clarcolaco">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,13 +22,14 @@ Feel free to add me and share stuff! :coffee:
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+    </a>
 <br><br>
 </div>
 
 
 
 <div> 
-   <a href = "mailto:clarissa.colaco@hotmail.com"><img src="https://img-premium.flaticon.com/png/512/1804/premium/1804883.png?token=exp=1628475633~hmac=1bbc55cbc58d4c162bb0266984cb97e1" height="30" width="40" target="_blank"></a>
+   <a href = "mailto:clarissa.colaco@hotmail.com"><img src="https://img-premium.flaticon.com/png/512/1804/premium/1804883.png?token=exp=1628475633~hmac=1bbc55cbc58d4c162bb0266984cb97e1" height="20" width="20" target="_blank"></a>
   <a href="https://www.linkedin.com/in/clarissa-colaco-ramos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
