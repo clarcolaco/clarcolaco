@@ -29,8 +29,14 @@ I'm Clarissa (Clar), Software development student.
 </div>
 
 
-
 <div> 
+    <p><b>Music while programming ♥</b></p>
+    <iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/playlist/7087636144" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
+
+
+</div>
+<div> 
+    
   
 Feel free to add me and share stuff! :coffee:<br>
 Contact:  <a href = "mailto:clarissa.colaco@hotmail.com">@email</a>   <a href="https://www.linkedin.com/in/clarissa-colaco-ramos" target="_blank">@linkedin</a> 
