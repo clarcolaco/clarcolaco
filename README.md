@@ -31,7 +31,7 @@ I'm Clarissa (Clar), Software development student.
 
 <div> 
     <p><b>Music while programming ♥</b></p>
-    <iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/playlist/7087636144" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
+    <iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/playlist/7087636144" width="400" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
 
 
 </div>
