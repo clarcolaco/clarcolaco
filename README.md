@@ -14,7 +14,7 @@ I'm Clarissa (Clar), Software development student.
 </div>
 <div><br>
   
-   Languages (using/learning): <br>
+   Languages (using/learning): <br><br>
   <img alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
