@@ -25,7 +25,7 @@ I'm Clarissa (Clar), Software development student.
   <img alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">       
   
       
-<br><br>
+<br>
 </div>
 
 
