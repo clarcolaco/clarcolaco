@@ -8,7 +8,7 @@ I'm Clarissa (Clar), Software development student.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarcolaco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarcolaco&layout=compact&langs_count=7&theme=dracula"/> </a><br>
   <img src="https://giffiles.alphacoders.com/163/163818.gif" alt="kirbyprogramming">
-  <img src"https://linustechtips.com/uploads/monthly_2017_07/cat.thumb.gif.42edc35172d4597265a0661c35ee94bf.gif" width="50%" alt="real life">
+  <img src"https://linustechtips.com/uploads/monthly_2017_07/cat.thumb.gif.42edc35172d4597265a0661c35ee94bf.gif" height="180em" alt="real life">
 </p>
 <br>
   
