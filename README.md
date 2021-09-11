@@ -27,9 +27,7 @@ I'm Clarissa (Clar), Software development student.
 
 
 <p align="center" width="100%">
-<div> 
    <p><b><a href="https://widget.deezer.com/widget/dark/playlist/7087636144" target="_blank">Music while programming ♥</b></a></p>
- </div>
    
   
 Feel free to add me and share stuff! :coffee:<br>
