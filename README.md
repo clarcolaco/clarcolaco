@@ -1,9 +1,9 @@
-<p align="center" width="100%">
-    <b><h1>Hi everybody! 大家好 ('Hello world') :earth_africa: </h1> </b>
+
+  <div><b><h1>Hi everybody! 大家好 ('Hello world') :earth_africa: </h1> </b>
 
 I'm Clarissa (Clar), Software development student.
-
-
+</div>
+    <p align="center" width="100%">
   <a href="https://github.com/clarcolaco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarcolaco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarcolaco&layout=compact&langs_count=7&theme=dracula"/> </a><br>
