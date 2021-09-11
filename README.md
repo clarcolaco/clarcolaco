@@ -22,12 +22,10 @@ I'm Clarissa (Clar), Software development student.
   <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">       
   
-      
-<br>
 
 
 <p align="center" width="100%">
-   <p><b><a href="https://widget.deezer.com/widget/dark/playlist/7087636144" target="_blank">Music while programming ♥</b></a></p>
+   <b><a href="https://widget.deezer.com/widget/dark/playlist/7087636144" target="_blank">Music while programming ♥</b></a>
    
   
 Feel free to add me and share stuff! :coffee:<br>
