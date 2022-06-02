@@ -9,6 +9,8 @@ I'm Clarissa (Clar), Software Developement's student.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarcolaco&layout=compact&langs_count=7&theme=dracula"/> </a><br>
   <img src="https://giffiles.alphacoders.com/163/163818.gif" alt="kirbyprogramming">
 </p>
+
+![Snake animation](https://github.com/clarcolaco/clarcolaco/blob/output/github-contribution-grid-snake.svg)
 <br>
   <p align="center" width="100%">
    Languages (using/learning): <br><br>
