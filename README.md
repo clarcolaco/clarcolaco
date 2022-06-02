@@ -10,7 +10,7 @@ I'm Clarissa (Clar), Software Developement's student.
   <img src="https://giffiles.alphacoders.com/163/163818.gif" alt="kirbyprogramming">
 </p>
 
-![Snake animation](clarcolaco)
+![Snake animation](https://github.com/clarcolaco/clarcolaco/blob/output/github-contribution-grid-snake.svg)
 
 <br>
   <p align="center" width="100%">
