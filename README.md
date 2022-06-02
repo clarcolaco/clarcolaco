@@ -11,6 +11,7 @@ I'm Clarissa (Clar), Software Developement's student.
 </p>
 
 ![Snake animation](https://github.com/clarcolaco/clarcolaco/blob/output/github-contribution-grid-snake.svg)
+
 <br>
   <p align="center" width="100%">
    Languages (using/learning): <br><br>
