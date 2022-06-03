@@ -13,8 +13,6 @@ I'm Clarissa (Clar), Software Developement's student & Data Engineer.
   <img src="https://giffiles.alphacoders.com/163/163818.gif" alt="kirbyprogramming">
 
 </p>
-
-<br>
   <p align="center" width="100%">
    Languages (using/learning): 
    <br> Actually using technologies: Apache Airflow, AWS services, Dremio, SQL, NoSql, MongoDB, Git. <br><br>
@@ -30,6 +28,7 @@ I'm Clarissa (Clar), Software Developement's student & Data Engineer.
   <br>
  Contact:  <a href = "mailto:clarissa.colaco@hotmail.com">@email</a>   <a href="https://www.linkedin.com/in/clarissa-colaco-ramos" target="_blank">@linkedin</a> <a href="https://googlesolutions.qwiklabs.com/public_profiles/b3d90fd1-7ad4-4a1a-939f-e87fbdcb89a2" target="_blank"> @badges</a>
 <br>
+  <b><a href="https://www.deezer.com/br/profile/689969113/history" target="_blank">Music ♥</b></a>    
   </p>
  <p align="center" width="100%">
   <a href="https://github.com/clarcolaco">
@@ -41,7 +40,7 @@ I'm Clarissa (Clar), Software Developement's student & Data Engineer.
   
   
   
-  <b><a href="https://www.deezer.com/br/profile/689969113/history" target="_blank">Music ♥</b></a>    
+  
   Feel free to add me and share stuff! :coffee:<br>
   
   <br> <b> Dashboard work portfolio:</b><br>
