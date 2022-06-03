@@ -1,8 +1,8 @@
 
-  <div><b><h1>Hi everybody! 大家好 ('Hello world') :earth_africa: </h1> </b>
+ <p align="center" width="100%"> <div><b><h1>Hi everybody! 大家好 ('Hello world') :earth_africa: </h1> </b>
 
 I'm Clarissa (Clar), Software Developement's student & Data Engineer. Feel free to add me and share stuff!
-  Let's <b>code</b>!
+  Let's <b>code</b>! <br> <b>Languages (using/learning): </b> Actually using technologies: Apache Airflow, AWS services, Dremio, SQL, NoSql, MongoDB, Git. <br><br>
 </div>
    
   
@@ -10,12 +10,14 @@ I'm Clarissa (Clar), Software Developement's student & Data Engineer. Feel free 
 
   
   
-<p align="center" width="100%">
+
   <img src="https://giffiles.alphacoders.com/163/163818.gif" alt="kirbyprogramming">
 
 </p>
   <p align="center" width="100%">
-   Languages (using/learning):  Actually using technologies: Apache Airflow, AWS services, Dremio, SQL, NoSql, MongoDB, Git. <br><br>
+  
+  
+  
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="rn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
