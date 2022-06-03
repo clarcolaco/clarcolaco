@@ -20,7 +20,8 @@ I'm Clarissa (Clar), Software Developement's student.
 
 <br>
   <p align="center" width="100%">
-   Languages (using/learning): <br><br>
+   Languages (using/learning): 
+   <br> Actually using technologies: Apache Airflow, AWS services, Dremio, SQL, NoSql, MongoDB, Git. <br><br>
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="rn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,7 +29,7 @@ I'm Clarissa (Clar), Software Developement's student.
   <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">   
-<br> Actually using technologies: Apache Airflow, AWS services, Dremio, SQL, NoSql, MongoDB, Git.</p>
+<br></p>
   
 
 <p align="center" width="100%">
