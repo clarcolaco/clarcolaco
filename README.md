@@ -36,11 +36,6 @@ I'm Clarissa (Clar), Software Developement's student & Data Engineer. Feel free 
   
   
   
-  
- 
-  
-  <br> <b> Dashboard work portfolio:</b><br>
-  <li> <a href="https://datastudio.google.com/reporting/b59e979e-749a-4f65-95c6-1fbc05869633"> Population Growth - Using JSON</a> </li><br>
- 
+ <b>@clarcolaco</b>
 
 </p>
