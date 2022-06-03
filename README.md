@@ -33,6 +33,8 @@ I'm Clarissa (Clar), Software Developement's student & Data Engineer.
   <a href="https://github.com/clarcolaco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarcolaco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarcolaco&layout=compact&langs_count=7&theme=dracula"/> </a>
+ 
+  
   ![Snake animation](https://github.com/clarcolaco/clarcolaco/blob/output/github-contribution-grid-snake.svg) 
   
 
