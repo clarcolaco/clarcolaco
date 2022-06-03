@@ -3,17 +3,13 @@
  <p align="center" width="100%"> 
 I'm Clarissa (Clar), Software Developement's student & Data Engineer. Feel free to add me and share stuff!
   Let's <b>code</b>! <br> <b>Languages (using/learning): </b> Actually using technologies: Apache Airflow, AWS services, Dremio, SQL, NoSql, MongoDB, Git. <br><br>
+
+  
+   <img src="https://giffiles.alphacoders.com/163/163818.gif" alt="kirbyprogramming">
 </div>
-   
-  
-  
-
-  
-  
-
-  <img src="https://giffiles.alphacoders.com/163/163818.gif" alt="kirbyprogramming">
 
 </p>
+
   <p align="center" width="100%">
   
   
