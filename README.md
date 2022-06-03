@@ -1,7 +1,7 @@
 
 <div><b><h1>Hi everybody! 大家好 ('Hello world') :earth_africa: </h1> </b>
  <p align="center" width="100%"> 
-I'm Clarissa (Clar), Software Developement's student & Data Engineer. Feel free to add me and share stuff!
+I'm Clarissa (Clar), Software Developement's student & Data Engineer. Feel free to add me and share stuff! :coffee:
   Let's <b>code</b>! <br> <b>Languages (using/learning): </b> Actually using technologies: Apache Airflow, AWS services, Dremio, SQL, NoSql, MongoDB, Git. <br><br>
 
   
@@ -24,7 +24,7 @@ I'm Clarissa (Clar), Software Developement's student & Data Engineer. Feel free 
 
   
   <br>
- Contact:  <a href = "mailto:clarissa.colaco@hotmail.com">@email</a>   <a href="https://www.linkedin.com/in/clarissa-colaco-ramos" target="_blank">@linkedin</a> <a href="https://googlesolutions.qwiklabs.com/public_profiles/b3d90fd1-7ad4-4a1a-939f-e87fbdcb89a2" target="_blank"> @badges</a>  <b><a href="https://www.deezer.com/br/profile/689969113/history" target="_blank">Music ♥</b></a>    
+ Contact:  <a href = "mailto:clarissa.colaco@hotmail.com">@email</a>   <a href="https://www.linkedin.com/in/clarissa-colaco-ramos" target="_blank">@linkedin</a> <a href="https://googlesolutions.qwiklabs.com/public_profiles/b3d90fd1-7ad4-4a1a-939f-e87fbdcb89a2" target="_blank"> @badges</a>  <b><a href="https://www.deezer.com/br/profile/689969113/history" target="_blank">@music ♥</b></a>    
   </p>
  <p align="center" width="100%">
   <a href="https://github.com/clarcolaco">
