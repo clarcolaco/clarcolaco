@@ -1,7 +1,7 @@
 
   <div><b><h1>Hi everybody! 大家好 ('Hello world') :earth_africa: </h1> </b>
 
-I'm Clarissa (Clar), Software Developement's student.
+I'm Clarissa (Clar), Software Developement's student & Data Engineer.
 </div>
     <p align="center" width="100%">
   <a href="https://github.com/clarcolaco">
