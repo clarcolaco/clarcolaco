@@ -25,8 +25,10 @@ I'm Clarissa (Clar), Software Developement's student & Data Engineer.
   <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">   
-<br>
 
+  
+  <br>
+ Contact:  <a href = "mailto:clarissa.colaco@hotmail.com">@email</a>   <a href="https://www.linkedin.com/in/clarissa-colaco-ramos" target="_blank">@linkedin</a> <a href="https://googlesolutions.qwiklabs.com/public_profiles/b3d90fd1-7ad4-4a1a-939f-e87fbdcb89a2" target="_blank"> @badges</a>
 <br>
   </p>
  <p align="center" width="100%">
@@ -44,6 +46,6 @@ I'm Clarissa (Clar), Software Developement's student & Data Engineer.
   
   <br> <b> Dashboard work portfolio:</b><br>
   <li> <a href="https://datastudio.google.com/reporting/b59e979e-749a-4f65-95c6-1fbc05869633"> Population Growth - Using JSON</a> </li><br>
-  Contact:  <a href = "mailto:clarissa.colaco@hotmail.com">@email</a>   <a href="https://www.linkedin.com/in/clarissa-colaco-ramos" target="_blank">@linkedin</a> <a href="https://googlesolutions.qwiklabs.com/public_profiles/b3d90fd1-7ad4-4a1a-939f-e87fbdcb89a2" target="_blank"> @badges</a>
+ 
 
 </p>
