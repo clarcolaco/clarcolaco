@@ -1,7 +1,8 @@
 
   <div><b><h1>Hi everybody! 大家好 ('Hello world') :earth_africa: </h1> </b>
 
-I'm Clarissa (Clar), Software Developement's student & Data Engineer.
+I'm Clarissa (Clar), Software Developement's student & Data Engineer. Feel free to add me and share stuff! :coffee:<br>
+  Let's <b>code</b>!
 </div>
    
   
@@ -26,9 +27,7 @@ I'm Clarissa (Clar), Software Developement's student & Data Engineer.
 
   
   <br>
- Contact:  <a href = "mailto:clarissa.colaco@hotmail.com">@email</a>   <a href="https://www.linkedin.com/in/clarissa-colaco-ramos" target="_blank">@linkedin</a> <a href="https://googlesolutions.qwiklabs.com/public_profiles/b3d90fd1-7ad4-4a1a-939f-e87fbdcb89a2" target="_blank"> @badges</a>
-<br>
-  <b><a href="https://www.deezer.com/br/profile/689969113/history" target="_blank">Music ♥</b></a>    
+ Contact:  <a href = "mailto:clarissa.colaco@hotmail.com">@email</a>   <a href="https://www.linkedin.com/in/clarissa-colaco-ramos" target="_blank">@linkedin</a> <a href="https://googlesolutions.qwiklabs.com/public_profiles/b3d90fd1-7ad4-4a1a-939f-e87fbdcb89a2" target="_blank"> @badges</a>  <b><a href="https://www.deezer.com/br/profile/689969113/history" target="_blank">Music ♥</b></a>    
   </p>
  <p align="center" width="100%">
   <a href="https://github.com/clarcolaco">
@@ -41,7 +40,7 @@ I'm Clarissa (Clar), Software Developement's student & Data Engineer.
   
   
   
-  Feel free to add me and share stuff! :coffee:<br>
+ 
   
   <br> <b> Dashboard work portfolio:</b><br>
   <li> <a href="https://datastudio.google.com/reporting/b59e979e-749a-4f65-95c6-1fbc05869633"> Population Growth - Using JSON</a> </li><br>
