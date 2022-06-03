@@ -1,6 +1,6 @@
 
- <p align="center" width="100%"> <div><b><h1>Hi everybody! 大家好 ('Hello world') :earth_africa: </h1> </b>
-
+<div><b><h1>Hi everybody! 大家好 ('Hello world') :earth_africa: </h1> </b>
+ <p align="center" width="100%"> 
 I'm Clarissa (Clar), Software Developement's student & Data Engineer. Feel free to add me and share stuff!
   Let's <b>code</b>! <br> <b>Languages (using/learning): </b> Actually using technologies: Apache Airflow, AWS services, Dremio, SQL, NoSql, MongoDB, Git. <br><br>
 </div>
