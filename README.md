@@ -37,15 +37,9 @@ I'm Clarissa (Clar), Software Developement's student & Data Engineer.
   
   ![Snake animation](https://github.com/clarcolaco/clarcolaco/blob/output/github-contribution-grid-snake.svg) 
   
-
-</p>
-
-
   
-
-<p align="center" width="100%">
-
-   <b><a href="https://www.deezer.com/br/profile/689969113/history" target="_blank">Music ♥</b></a>    
+  
+  <b><a href="https://www.deezer.com/br/profile/689969113/history" target="_blank">Music ♥</b></a>    
   Feel free to add me and share stuff! :coffee:<br>
   
   <br> <b> Dashboard work portfolio:</b><br>
