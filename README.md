@@ -10,7 +10,7 @@ I'm Clarissa (Clar), Software Developement's student & Data Engineer.
   </p>
   
   
-  ![Snake animation](https://github.com/clarcolaco/clarcolaco/blob/output/github-contribution-grid-snake.svg) 
+
   
   
 <p align="center" width="100%">
@@ -29,7 +29,13 @@ I'm Clarissa (Clar), Software Developement's student & Data Engineer.
   <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">   
-<br></p>
+<br>
+
+<br>
+
+  ![Snake animation](https://github.com/clarcolaco/clarcolaco/blob/output/github-contribution-grid-snake.svg) 
+
+</p>
   
 
 <p align="center" width="100%">
