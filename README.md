@@ -33,7 +33,7 @@ I'm Clarissa (Clar), Software Developement's student & Data Engineer. Feel free 
   
   ![Snake animation](https://github.com/clarcolaco/clarcolaco/blob/output/github-contribution-grid-snake.svg) 
   
-  <iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/playlist/1479458365" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
+  
   
  <b>@clarcolaco</b>
 
