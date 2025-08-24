@@ -1,7 +1,7 @@
 
 <div><b><h1>Hi everybody! 大家好 ('Hello world') :earth_africa: </h1> </b>
  <p align="center" width="100%"> 
-I'm Clarissa (Clar), I'm a Data Engineer. Feel free to add me and share stuff! Let's <b>code</b>! :coffee:  <br> <b>(using/learning): </b> Actually using technologies: Apache Airflow, AWS services, GCP cloud, EMR, Dremio, SQL, NoSql, MongoDB, Git. <br><br>
+I'm Clarissa (Clar), I'm a Data Engineer. Feel free to add me and share stuff! Let's <b>code</b>! :coffee:  <br> <b>(using/learning): </b> Actually using technologies: Apache Airflow, AWS services, GCP cloud, EMR, Dremio, SQL, NoSql, MongoDB, Git. <br> <b>(studying): </b> AI Agents, LLM, RAG, GenIA, Gemini, Vector Databases. <br><br>
 
   
    <img src="https://giffiles.alphacoders.com/163/163818.gif" alt="kirbyprogramming">
